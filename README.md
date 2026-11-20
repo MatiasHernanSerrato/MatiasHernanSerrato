@@ -5,10 +5,7 @@ proyecto para no aburrirme, y aprender cosas nuevas sin preguntarle
 a nadie primero.
 
 Ultimamente ando metido en un side project que mezcla salud y plata
-personal, usando Go, Flutter y Next.js. Pronto subo mas detalle.
-
-Si queres charlar sobre backend, apps o cualquier bardo tecnico,
-escribime.
+personal, usando Go, Flutter y Next.js.
 
 ---
 
@@ -27,8 +24,8 @@ los gastos.
 
 **[pulso-mobile](https://github.com/MatiasHernanSerrato/pulso-mobile)**
 App en Flutter 3.24, offline-first con Drift. Se conecta por BLE a
-balanzas con el perfil estandar 0x181D (Weight Scale) asi que
-anda con cualquier balanza decente, no solo las que piden una app
+balanzas con el perfil estandar 0x181D (Weight Scale) asi que anda
+con cualquier balanza decente, no solo las que piden una app
 propia. Shorebird para OTA.
 
 **[pulso-web](https://github.com/MatiasHernanSerrato/pulso-web)**
@@ -56,11 +53,17 @@ mientras los proyectos son chicos.
 
 ---
 
+### Que estoy haciendo ahora
+
+- Terminando la primera version publica de Pulso
+- Leyendo sobre event sourcing aplicado a cosas de salud
+- Aprendiendo un poco de Rust los fines de semana
+
+---
+
 ### Contacto
 
-- Mail: matiashernanserrato@gmail.com
-- Para cosas de laburo o consultoria, el mail es lo mas rapido
+Mail: matiashernanserrato@gmail.com
 
 Si estas armando algo que necesita backend + mobile y queres que
-alguien lo piense de punta a punta, mandame un mensaje y lo
-charlamos.
+alguien lo piense de punta a punta, escribime y lo charlamos.
