@@ -35,3 +35,32 @@ propia. Shorebird para OTA.
 Dashboard en Next.js 15 (App Router + RSC) con Tailwind y Visx para
 los graficos. Mismos datos que la app mobile pero pensado para
 mirar en la compu mientras tomas mate.
+
+---
+
+### Con que trabajo
+
+**Backend:** Go, Postgres, GraphQL, gRPC, Kafka, OpenTelemetry.
+Tengo tambien bastante de Node/TypeScript de proyectos viejos.
+
+**Mobile:** Flutter (Riverpod, Drift, flutter_blue_plus, go_router).
+Integraciones con HealthKit y Health Connect, BLE con balanzas y
+monitores de presion.
+
+**Web:** Next.js 15 con App Router + RSC, Tailwind, Shadcn, Visx
+para charts. Codegen de GraphQL con urql.
+
+**Infra:** Docker, Fly.io, GitHub Actions, Prometheus + Grafana.
+Nada de Terraform por ahora, prefiero mantener el deploy simple
+mientras los proyectos son chicos.
+
+---
+
+### Contacto
+
+- Mail: matiashernanserrato@gmail.com
+- Para cosas de laburo o consultoria, el mail es lo mas rapido
+
+Si estas armando algo que necesita backend + mobile y queres que
+alguien lo piense de punta a punta, mandame un mensaje y lo
+charlamos.
